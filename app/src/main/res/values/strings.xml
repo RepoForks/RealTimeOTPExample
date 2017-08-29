@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RealTimeOTPExample</string>
+    <string name="empty_field">Empty field</string>
+    <string name="invalid_email_id">Invalid email id</string>
+    <string name="admin_email_id">replace_with_your_email_id</string>
+    <string name="admin_password">replace_with_your_password</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_id">Email Id</string>
+</resources>
